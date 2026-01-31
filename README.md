@@ -1,4 +1,5 @@
-#A backend RESTful API for managing a product catalog built using Node.js, Express.js, and MongoDB.
+# A backend RESTful API for managing a product catalog built using Node.js, Express.js, and MongoDB.
+
 This API supports basic CRUD (Create, Read, Update, Delete) operations allowing users to add, view, update, and delete products. It’s ideal for learning backend fundamentals and can be integrated with frontend applications.
 
 📌 Features
