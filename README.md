@@ -9,6 +9,9 @@ This API supports basic CRUD (Create, Read, Update, Delete) operations allowing 
 🗂 MVC-style folder structure
 🔐 Scalable code structure with controllers, routes, and models
 
+```
+## 📁 Project Structure
+
 .
 ├── controllers/        # Business logic
 ├── models/             # Database schemas
@@ -16,7 +19,7 @@ This API supports basic CRUD (Create, Read, Update, Delete) operations allowing 
 ├── index.js            # Server entrypoint
 ├── package.json        # Dependencies and scripts
 └── .gitignore          # Ignored files
-
+```
 🛠 Technologies Used
 
 Node.js
